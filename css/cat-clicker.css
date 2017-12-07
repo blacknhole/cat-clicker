@@ -1,0 +1,13 @@
+#cat{
+  display: block;
+  margin: auto;
+  padding-top: 150px;
+  width: 50%;
+}
+
+#counter{
+  font-size: 3em;
+  margin: auto;
+  padding-top: 5px;
+  width: 10px;
+}
